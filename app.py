@@ -3,7 +3,7 @@ import streamlit as st
 from PIL import Image
 
 
-st.title('Análisis de datos de nuestra huerta')
+st.title('proyecto 3 IoT')
 
 uploaded_file = st.file_uploader('Choose a file')
 
